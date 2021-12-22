@@ -1,0 +1,33 @@
+{
+    "cars": [
+        {
+            "marca": "BMW",
+            "modelo": "X3",
+            "Similares": [
+                "Volvo XC60",
+                "Audi Q5"
+            ],
+            "img": "bmw-x3-suv-white-US-2021.png",
+            "categoria": "Premium-SUV | LFAR"
+        },
+        {
+            "marca": "Nissam",
+            "modelo": "Versa",
+            "Similares": [
+                "MINI Countryman",
+                "Kia Forte"
+            ],
+            "img": "nissan-versa-4d-white-2021.png",
+            "categoria": "Saloons | ICAR"
+        },
+        {
+            "marca": "VW",
+            "modelo": "Jetta",
+            "Similares": [
+                "Toyota Corolla"
+            ],
+            "img": "vw-jetta-4d-silber-2019.png",
+            "categoria": "Saloons | SCAR"
+        }
+    ]
+}

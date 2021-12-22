@@ -1,0 +1,10 @@
+{
+    "colors": {
+      "default": "#111119",
+      "primary": "#FF7E30",
+      "secondary": "#F2F2F2",
+      "transparent": "#FFFFFF00",
+      "inputBorder": "#C6C6C6"
+    },
+    "Dark": {}
+  }
